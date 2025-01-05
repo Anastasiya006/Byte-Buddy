@@ -21,12 +21,11 @@ Won **Best Begineer Hack** @ YRHacks 2024
 
 ## Installation Requirements
 
-Before running the game, ensure your system meets the following requirements:
+Before running the desktop application, ensure your system meets the following requirements:
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
 - **Python Version:** Python 3.7 or higher
-- **Required Packages:** pygame library
 
 ### Step-by-Step Installation
 
