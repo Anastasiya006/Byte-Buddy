@@ -25,13 +25,13 @@ Before running the application, ensure your system meets the following requireme
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
-- **Python Version:** Python 3.7 or higher
+- **Python Version:** Python 3 or higher
 
 ### Step-by-Step Installation
 
 1. **Install Python**
    
-   Download and install Python 3.7 or higher from the [official Python website](https://www.python.org/downloads/)
+   Download and install Python 3 or higher from the [official Python website](https://www.python.org/downloads/)
    
 2. **Clone the Repository**
    
