@@ -13,11 +13,39 @@ Won **Best Begineer Hack** @ YRHacks 2024
 | <img src="assets/idle/11.png" width="50"/>          | Idle          | N/A                              |
 | <img src="assets/walk_right/2.png" width="50"/>     | Walk          | N/A                              |
 | <img src="assets/pick-up.png" width="50"/>          | Drag & Drop   | Pick up and release with cursor  |
-| <img src="assets/scratching/1.png" width="50"/>     | Scratch       | Hold cursor near                 |
+| <img src="assets/scratching/1.png" width="50"/>     | Scratch       | Hold cursor nearby               |
 | <img src="assets/cute/10.png" width="50"/>          | Stand         | N/A                              |
 | <img src="assets/eating/1.png" width="50"/>         | Eat           | Right click                      |
 | <img src="assets/deep_sleep/1.png" width="50"/>     | Sleep         | N/A                              |
 | <img src="assets/pooping/8.png" width="50"/>        | Poop          | N/A                              |
+
+## Installation Requirements
+
+Before running the game, ensure your system meets the following requirements:
+
+### System Requirements
+- **Operating System:** Windows, macOS, or Linux
+- **Python Version:** Python 3.7 or higher
+- **Required Packages:** pygame library
+
+### Step-by-Step Installation
+
+1. **Install Python**
+   
+   Download and install Python 3.7 or higher from the [official Python website](https://www.python.org/downloads/)
+   
+2. **Clone the Repository**
+   
+   Open a terminal/command prompt and run the following command to clone the game repository:  
+   ```bash
+   git clone https://github.com/Anastasiya006/Byte-Buddy.git
+   cd Byte-Buddy
+   
+3. **Run the Desktop Application**
+   
+   Open a terminal/command prompt and run the following command to run the game:
+   ```bash
+   python main.py  
 
 ## Credits
 - **Design and Developementt**: [Anastasiya006](https://github.com/Anastasiya006), Claire, Vivian
