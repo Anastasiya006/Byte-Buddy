@@ -21,7 +21,7 @@ Won **Best Begineer Hack** @ YRHacks 2024
 
 ## Installation Requirements
 
-Before running the desktop application, ensure your system meets the following requirements:
+Before running the application, ensure your system meets the following requirements:
 
 ### System Requirements
 - **Operating System:** Windows, macOS, or Linux
@@ -35,14 +35,14 @@ Before running the desktop application, ensure your system meets the following r
    
 2. **Clone the Repository**
    
-   Open a terminal/command prompt and run the following command to clone the game repository:  
+   Open a terminal/command prompt and run the following command to clone the repository:  
    ```bash
    git clone https://github.com/Anastasiya006/Byte-Buddy.git
    cd Byte-Buddy
    
-3. **Run the Desktop Application**
+3. **Run the Application**
    
-   Open a terminal/command prompt and run the following command to run the game:
+   Open a terminal/command prompt and run the following command to run the application:
    ```bash
    python main.py  
 
